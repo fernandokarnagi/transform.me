@@ -1,0 +1,3 @@
+Project scope of work:
+1) Setup Node.js
+2) Member review
